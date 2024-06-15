@@ -162,10 +162,9 @@ cython_debug/
 assignment-1/cs909-assignment-1-venv
 
 week_2/labs/data/*
-*.pdf
 
 *.mp4
 *.ini
 *.html
-data/
 assignment/cs933-assignment
+/data/
