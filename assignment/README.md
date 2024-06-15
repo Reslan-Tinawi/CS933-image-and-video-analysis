@@ -10,7 +10,7 @@ To set up the project, follow these steps:
 
    ```bash
    git clone https://github.com/Reslan-Tinawi/CS933-image-and-video-analysis.git
-   cd CS909-data-mining
+   cd CS933-image-and-video-analysis\assignment
    ```
 
 2. Create a virtual environment:
